@@ -123,5 +123,3 @@ Intuitively, most people recognize the value of a great customer experience. The
 
 The introduction of ABC Game Store's new database is expected to eliminate bottlenecks in existing revenue structures and will bring additional 140% revenue growth potential, while enabling improved quality of customer service and systematic management of human resources.
 
-## License
-© hej6853
